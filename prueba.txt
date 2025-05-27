@@ -3,3 +3,6 @@ Este archivo contiene varias l¡neas para observar los cambios.
 Cada l¡nea representa una idea o mensaje.
 Git permite controlar versiones de forma eficiente.
 Aprender Git es esencial para todo desarrollador.
+Este es un nuevo p rrafo a¤adido despu‚s del primer commit.
+Sirve para practicar c¢mo Git registra modificaciones.
+Al hacer commit, quedar  guardado en el historial.
